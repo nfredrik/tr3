@@ -13,12 +13,14 @@ def test_is_perfect_number_6():
 def test_is_perfect_number_28():
     assert is_perfect_number(28) == True
 
+
 def test_is_perfect_number_12():
     assert is_perfect_number(12) == False
 
 
 def test_divisible_by3_false():
     assert is_divisible_by_3(14) == False
+
 
 def test_divisible_by3_true():
     assert is_divisible_by_3(15) == True
