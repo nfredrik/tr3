@@ -1,30 +1,20 @@
-[![pypi](https://img.shields.io/pypi/v/midsummer.svg)](https://pypi.python.org/pypi/tribus)
-[![Downloads](https://static.pepy.tech/badge/midsummer)](https://pepy.tech/project/tribus) 
-[![Downloads](https://static.pepy.tech/badge/midsummer/month)](https://pepy.tech/project/tribus)
-[![versions](https://img.shields.io/pypi/pyversions/pydantic.svg)](https://github.com/midsummer/tribus)
+[![pypi](https://img.shields.io/pypi/v/midsummer.svg)](https://pypi.python.org/pypi/tr3)
+[![Downloads](https://static.pepy.tech/badge/midsummer)](https://pepy.tech/project/tr3) 
+[![Downloads](https://static.pepy.tech/badge/midsummer/month)](https://pepy.tech/project/tr3)
+[![versions](https://img.shields.io/pypi/pyversions/pydantic.svg)](https://github.com/midsummer/tr3)
 
 # Python course at 3
 
-This is demo project to be used in the python course
+This is demo project to be used in the python course fall 2024
 
 ## Usage
 
-To use this module, simply import the `midsummer_date` function and pass the year for which you want to find the Midsummer's Day:
+Function prototypes for functions in this package
 
 ```python
-    import tribus
+    def is_divisible_by_3(number:int) -> bool
 
-    year = 2024
-    print(midsummer_date(year))
+    def approx_pi() -> float
+
+    def is_divisible_by_3(number:int) -> bool:
 ```
-
-
-## Functionality
-
-Add some nice functionality when relevant 
-## Exceptions
-
-wait and see
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
