@@ -1,7 +1,7 @@
 [![pypi](https://img.shields.io/pypi/v/midsummer.svg)](https://pypi.python.org/pypi/tr3)
 [![Downloads](https://static.pepy.tech/badge/midsummer)](https://pepy.tech/project/tr3) 
 [![Downloads](https://static.pepy.tech/badge/midsummer/month)](https://pepy.tech/project/tr3)
-[![versions](https://img.shields.io/pypi/pyversions/pydantic.svg)](https://github.com/midsummer/tr3)
+[![versions](https://img.shields.io/pypi/pyversions/pydantic.svg)](https://github.com/tr3/tr3)
 
 # Python course at 3
 
@@ -16,5 +16,5 @@ Function prototypes for functions in this package
 
     def approx_pi() -> float
 
-    def is_divisible_by_3(number:int) -> bool:
+    add some more to this!
 ```
