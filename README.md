@@ -5,16 +5,16 @@
 
 # Python course at 3
 
-This is demo project to be used in the python course fall 2024
+This is demo project to be used in the python course fall 2024.
 
 ## Usage
 
 Function prototypes for functions in this package
 
 ```python
-    def is_divisible_by_3(number:int) -> bool
+    def is_divisible_by_3(number:int) -> bool:
 
-    def approx_pi() -> float
+    def approx_pi() -> float:
 
     add some more to this!
 ```
