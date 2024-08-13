@@ -15,6 +15,11 @@ Function prototypes for functions in this package
     def is_divisible_by_3(number:int) -> bool:
 
     def approx_pi() -> float:
+    
+    def compound_interest(start_sum: Union[int, float],
+                      interest: Union[int, float],
+                      no_of_year: int,
+                      no_compute: int = 1) -> float:
 
     add some more to this!
 ```
