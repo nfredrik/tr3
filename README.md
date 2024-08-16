@@ -3,7 +3,12 @@
 [![Downloads](https://static.pepy.tech/badge/midsummer/month)](https://pepy.tech/project/tr3)
 [![versions](https://img.shields.io/pypi/pyversions/pydantic.svg)](https://github.com/tr3/tr3)
 
-![CI](https://github.com/nfredrik/tr3/actions/workflows/python-publish.yml/badge.svg)
+# ![CI](https://github.com/nfredrik/tr3/actions/workflows/python-publish.yml/badge.svg)
+
+[![CI Status](https://img.shields.io/github/actions/workflow/status/nfredrik/tr3/python-publish.yml?branch=main&label=CI%20Passed&logo=github&style=for-the-badge)](https://github.com/nfredrik/tr3/actions)
+
+# [![CI Status](https://img.shields.io/github/actions/workflow/status/your_username/your_project/ci.yml?branch=main&label=CI%20Passed&logo=github&style=for-the-badge)](https://github.com/your_username/your_project/actions)
+
 
 # Python course at 3
 
