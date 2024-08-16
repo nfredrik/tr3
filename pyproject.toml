@@ -5,6 +5,10 @@ description = "tr3"
 authors = ["fredrik <nfredrik@hotmail.com>"]
 readme = "README.md"
 
+[project.urls]
+"Documentation" = "https://icanhazdadjoke.com/"
+"Source Code" = "https://github.com/nfredrik/tr3"
+
 [tool.poetry.dependencies]
 python = "^3.12"
 
