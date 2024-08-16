@@ -3,6 +3,7 @@
 [![Downloads](https://static.pepy.tech/badge/midsummer/month)](https://pepy.tech/project/tr3)
 [![versions](https://img.shields.io/pypi/pyversions/pydantic.svg)](https://github.com/tr3/tr3)
 
+[![CI](https://img.shields.io/github/actions/workflow/status/tr3/blob/1.4/.github/workflows/python-publish.yml)](https://github.com/nfredrik/tr3/actions)
 # Python course at 3
 
 This is demo project to be used in the python course fall 2024.
