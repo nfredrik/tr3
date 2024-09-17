@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tr3"
-version = "1.5"
+version = "1.6"
 description = "tr3"
 authors = ["fredrik <nfredrik@hotmail.com>"]
 readme = "README.md"
